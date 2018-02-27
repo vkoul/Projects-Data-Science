@@ -1,4 +1,4 @@
-# Projects_DS
+# Projects_Data Science
 Code / Summary of Personal Projects
 
 ***
