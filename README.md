@@ -1,6 +1,8 @@
 # Projects_Data Science
 Code / Summary of Personal Projects
 
+## MORE PROJECTS COMING...
+
 ***
 
 ## Data Camp Projects
