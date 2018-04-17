@@ -1,8 +1,6 @@
 # Projects_Data Science
 Code / Summary of Personal Projects
 
-## MORE PROJECTS COMING...
-
 ***
 
 ## Data Camp Projects
@@ -12,3 +10,5 @@ Code / Summary of Personal Projects
 * [Candy Crush Saga](http://bit.ly/2oMTtLu): Understanding the difficulty of Levels in Candy Crush game
 
 ***
+
+## MORE PROJECTS COMING...
