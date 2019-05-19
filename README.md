@@ -27,9 +27,13 @@
   * packages used `dplyr`, `ggplot2`, `stringr`
 
 
-
 * [**Project 6: Visual History of Nobel Prize Winners**](https://github.com/vkoul/Projects-Data-Science/blob/master/DataCamp/Visual%20History%20of%20Nobel%20Prize%20Winners.ipynb): Exploring dataset from Kaggle containing a century's worth of Nobel Laureates
   * packages used `dplyr`, `ggplot2`
+
+* [**Project 7: Data Science for Social Good: Crime Study**](https://github.com/vkoul/Projects-Data-Science/blob/master/DataCamp/Data%20Science%20for%20Social%20Good-%20SF%20Crime%20Study.ipynb):  Leverage publicly available data to interpret crime patterns within the city of San Francisco.
+  * packages used `dplyr`, `ggplot2` and `ggmap`
+
+  
 
 
 
