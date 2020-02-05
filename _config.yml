@@ -1,6 +1,9 @@
 theme: jekyll-theme-minimal
 
+title: "Projects- Data Science"
+
 plugins:
   - jemoji
   
 markdown: CommonMarkGhPages
+
